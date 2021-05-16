@@ -1,0 +1,48 @@
+body{
+        background-color:#177963;
+}
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu{
+    justify-content: space-around;
+    padding: 30px 20px 0px 0px;
+}
+.menu a{
+    padding: 10px;
+}
+.grid img{
+    border: 2px solid #000000;
+    border-radius: 20px;
+}
+.grid{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.origami{
+    padding: 0px 80px 50px 80px;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    color: #65ffc4;
+    padding: 10px;
+    
+}
+p,li{
+    color: #00fa9a;
+    
+}
+
+h1,h2{
+    color: #65ffc4;
+    text-align: center;
+}
+
+
